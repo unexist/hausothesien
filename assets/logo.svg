@@ -1,0 +1,15 @@
+<svg width="220" height="180" viewBox="0 0 220 180" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Hausothesien Logo">
+  <title>Hausothesien Logo</title>
+  <g fill="none" stroke="#2563eb" stroke-width="7" stroke-linecap="round" stroke-linejoin="round">
+    <path d="M78 38 L92 20 L110 38 L128 20 L142 38" />
+    <path d="M76 48 H144" />
+    <path d="M45 92 L110 45 L175 92" />
+    <path d="M65 92 V150 H155 V92" />
+    <path d="M96 150 V112 H124 V150" />
+  </g>
+  <g fill="#2563eb">
+    <circle cx="92" cy="18" r="5"/>
+    <circle cx="128" cy="18" r="5"/>
+    <circle cx="110" cy="36" r="5"/>
+  </g>
+</svg>

@@ -1,0 +1,1 @@
+const observer=new IntersectionObserver((entries)=>{entries.forEach(entry=>{if(entry.isIntersecting){entry.target.classList.add('visible')}})},{threshold:.12});document.querySelectorAll('.stage-card,.timeline-item,.fact-bar div,.support-card,.stat').forEach(el=>observer.observe(el));
